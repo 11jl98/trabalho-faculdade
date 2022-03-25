@@ -1,0 +1,18 @@
+.menu-principal{
+    width: 400px;
+    height: 300px;
+    background-color: aliceblue;
+    margin-top: 150px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+a{
+    background-color: rgba(2, 1, 31, 0.952)!important;
+    color: white !important;
+    width: 350px!important;
+    margin-bottom: 5px;
+
+}
